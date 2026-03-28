@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "無敵",
+  "base_artist": "Young Kee",
+  "createdAt": "2026-03-28T15:55:17.776749Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "無敵☆moment",
+      "artist": "Peaky P-key",
+      "has_synced": false,
+      "path": "select/01_無敵☆moment_Peaky_P-key.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "無敵☆moment-instrumental-",
+      "artist": "Peaky P-key",
+      "has_synced": false,
+      "path": "select/02_無敵☆moment-instrumental-_Peaky_P-key.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "無敵",
+      "artist": "YUKI",
+      "has_synced": true,
+      "path": "select/03_無敵_YUKI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "無敵☆moment",
+      "artist": "Peaky P-key",
+      "has_synced": true,
+      "path": "select/04_無敵☆moment_Peaky_P-key.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "無敵 - Muteki",
+      "artist": "Young Kee",
+      "has_synced": true,
+      "path": "select/05_無敵_-_Muteki_Young_Kee.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Time of Victory - EX-AID 無敵",
+      "artist": "仮面ライダーGIRLS",
+      "has_synced": true,
+      "path": "select/06_Time_of_Victory_-_EX-AID_無敵_仮面ライダーGIRLS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Two of Us 無敵♪",
+      "artist": "ミルキィホームズ",
+      "has_synced": false,
+      "path": "select/07_Two_of_Us_無敵♪_ミルキィホームズ.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "無敵☆moment - INVINCIBLE☆moment",
+      "artist": "Peaky P-key",
+      "has_synced": true,
+      "path": "select/08_無敵☆moment_-_INVINCIBLE☆moment_Peaky_P-key.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "無敵",
+      "artist": "Robynn & Kendy",
+      "has_synced": true,
+      "path": "select/09_無敵_Robynn_&_Kendy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "究極! 無敵!! キュウレンジャー",
+      "artist": "幡野智宏",
+      "has_synced": false,
+      "path": "select/10_究極!_無敵!!_キュウレンジャー_幡野智宏.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "究極! 無敵!! キュウレンジャー",
+      "artist": "幡野智宏 (Project.R)",
+      "has_synced": false,
+      "path": "select/11_究極!_無敵!!_キュウレンジャー_幡野智宏_(Project.R).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "無敵",
+      "artist": "Young Kee",
+      "has_synced": false,
+      "path": "select/pl_01_無敵_Young_Kee.txt"
+    }
+  ]
+}
